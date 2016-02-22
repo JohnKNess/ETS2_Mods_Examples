@@ -1,5 +1,5 @@
 # ETS2_Mods_Examples
-Euro Truck Simulator 2  | Example Mod | Version 1.19.x (ETS2_Mods_Examples)
+Euro Truck Simulator 2  | Example Mod | Version 1.22.x (ETS2_Mods_Examples)
 
 This is a copy of the example mod files provided by SCS Software which is used in Euro Truck Simulator 2 in the Mod Manager as of version 1.19.x.
 
